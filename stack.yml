@@ -30,7 +30,7 @@ services:
       - ZWEI_ADDRESS=postgres
       - ZWEI_USER=jqs7
       - ZWEI_DATABASE=zwei
-      - ZWEI_TOKEN=<telegram-bot-token>
+      - ZWEI_TOKEN=663792552:AAF0TD4hh-9RTzqfIZNF0y6ju8jv7D5CF4U
   postgres:
     image: postgres
     volumes:
